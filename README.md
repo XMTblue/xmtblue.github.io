@@ -1,2 +1,2 @@
-# xmtblue.eep.pw
+# gh.xmt.blue
 A website
