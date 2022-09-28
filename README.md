@@ -1,2 +1,2 @@
-# gh.xmt.blue
+# xmtblue.github.io
 A website
